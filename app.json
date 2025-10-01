@@ -1,0 +1,13 @@
+{
+  "name": "correspondence_management",
+  "title": "Correspondence Management",
+  "version": "1.0.0",
+  "release": "1.0.0",
+  "app_name": "correspondence_management",
+  "app_title": "Correspondence Management",
+  "app_publisher": "SMN",
+  "app_description": "Correspondence Management System",
+  "app_email": "admin@example.com",
+  "app_license": "MIT",
+  "repository_url": "https://github.com/smn1152/correspondence_management"
+}
